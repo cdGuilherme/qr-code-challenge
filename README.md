@@ -30,7 +30,6 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 - HTML5
 - CSS3
-- Mobile-first workflow
 - [Outfit font](https://fonts.google.com/specimen/Outfit) - For fonts
 
 ### What I learned
