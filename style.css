@@ -45,7 +45,8 @@ img {
   width: 245px;
 }
 
-h3 {
+h1 {
+  font-size: 1.3em;
   color: hsl(218, 44%, 22%);
 }
 
