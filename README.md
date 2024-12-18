@@ -46,5 +46,5 @@ This is also my first project where I've worked with Git and GitHub. This has he
 
 ## Author
 
-- GitHub - [nanikore](https://github.com/nanikore0)
-- Frontend Mentor - [@nanikore0](https://www.frontendmentor.io/profile/nanikore0)
+- GitHub - [Guilherme Costa](https://github.com/cdGuilherme)
+- Frontend Mentor - [@cdGuilherme](https://www.frontendmentor.io/profile/cdGuilherme)
